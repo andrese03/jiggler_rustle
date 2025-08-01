@@ -1,0 +1,15 @@
+[package]
+name = "jiggler-cli"
+version = "0.1.0"
+edition = "2021"
+description = "A cross-platform CLI tool to jiggle mouse and press keys to prevent screen lock."
+
+[[bin]]
+name = "jiggler"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+enigo = "0.2"
+tokio = { version = "1", features = ["full", "time"] }
+rand = "0.8"
