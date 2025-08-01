@@ -9,7 +9,7 @@ use tokio::time;
 #[command(
     about = "A tiny 🧰 Rust-powered companion that gently reminds your machine you're still around 👀. Perfect for those deep focus sessions where stepping away is not really an option... or at least, that's what the system thinks 😏\n\nCross-platform. Lightweight. Practically invisible. Just a little... rustle now and then. 🌬️🖱️"
 )]
-#[command(version = "0.1.1")]
+#[command(version = "0.1.2")]
 struct Cli {
     #[arg(
         short,

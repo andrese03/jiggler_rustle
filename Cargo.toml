@@ -3,11 +3,27 @@ members = ["jiggler-api", "jiggler-cli"]
 resolver = "2"
 
 [workspace.package]
-version = "0.1.1"
+version = "0.1.2"
 authors = ["andrese03"]
 license = "MIT"
 edition = "2021"
 repository = "https://github.com/andrese03/jiggler_rustle"
 homepage = "https://github.com/andrese03/jiggler_rustle"
-keywords = ["automation", "screen-saver", "mouse", "keyboard", "cli"]
+keywords = [
+    "automation",
+    "screen-saver",
+    "mouse",
+    "keyboard",
+    "cli",
+    "jiggler",
+    "idle",
+    "activity",
+    "prevent-sleep",
+    "wake",
+    "input",
+    "utility",
+    "productivity",
+    "system",
+    "tool",
+]
 categories = ["command-line-utilities", "os"]
