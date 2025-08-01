@@ -9,9 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Enhanced package metadata with comprehensive keywords for better discoverability
-- Added keywords: jiggler, idle, activity, prevent-sleep, wake, input, utility, productivity, system, tool
-- Improved package searchability on crates.io
+- Enhanced package metadata with optimized keywords for better discoverability
+- Selected top 5 keywords: automation, productivity, prevent-sleep, mouse, cli
+- Improved package searchability on crates.io within platform limits
 
 ## [0.1.1] - 2025-07-31
 

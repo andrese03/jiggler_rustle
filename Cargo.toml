@@ -9,21 +9,5 @@ license = "MIT"
 edition = "2021"
 repository = "https://github.com/andrese03/jiggler_rustle"
 homepage = "https://github.com/andrese03/jiggler_rustle"
-keywords = [
-    "automation",
-    "screen-saver",
-    "mouse",
-    "keyboard",
-    "cli",
-    "jiggler",
-    "idle",
-    "activity",
-    "prevent-sleep",
-    "wake",
-    "input",
-    "utility",
-    "productivity",
-    "system",
-    "tool",
-]
+keywords = ["jiggler", "cli", "productivity", "prevent-sleep", "mouse"]
 categories = ["command-line-utilities", "os"]
