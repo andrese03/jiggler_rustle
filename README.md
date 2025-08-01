@@ -8,6 +8,10 @@ Cross-platform. Lightweight. Practically invisible. Just a little... rustle now 
 
 ## 📦 Installation
 
+> **Prerequisite:**  
+> You need to have [Rust and Cargo installed](https://www.rust-lang.org/tools/install) on your system.  
+> If you don't have Rust yet, follow the instructions at [rust-lang.org/tools/install](https://www.rust-lang.org/tools/install) to get started.
+
 ### From crates.io (Recommended)
 
 ```bash
